@@ -1,0 +1,11 @@
+div.container{
+    background-image: linear-gradient(180deg,#358597,#f4a896,rgb(223, 98, 98));
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color: #f4a896 !important;
+}
